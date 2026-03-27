@@ -18,7 +18,7 @@ The main objectives of this project include:
 
 You can access the live version of the project here:
 
-👉 https://your-hoshino-casino-link.com
+👉 [https://your-hoshino-casino-link.com](https://yogurtgen.github.io/HoshinoCasino/)
 
 The demo reflects the current implementation and allows users to experience the system without any installation.
 
